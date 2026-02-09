@@ -8,3 +8,4 @@
 6. Minimum Removals to Balence Array
 7. Minimum Deletion to Make String Balenced
 8. Balenced Binary Tree
+9. Balence a Binary Search Tree
