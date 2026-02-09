@@ -32,4 +32,3 @@ class Solution:
         # Create a new node with the middle element and attach the subtrees
         node = TreeNode(inorder[mid], left_subtree, right_subtree)
         return node
-
