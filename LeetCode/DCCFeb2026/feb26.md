@@ -11,3 +11,4 @@
 9. Balence a Binary Search Tree
 10. Longest Balenced Subarray I
 11. Longest Balenced Subarray II
+12. Longest Balenced Substring I
