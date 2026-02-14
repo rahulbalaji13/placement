@@ -12,3 +12,5 @@
 10. Longest Balenced Subarray I
 11. Longest Balenced Subarray II
 12. Longest Balenced Substring I
+13. Longest Balenced Substring II
+14. Champagne Tower
