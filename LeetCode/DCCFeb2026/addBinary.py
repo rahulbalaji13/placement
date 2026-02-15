@@ -21,10 +21,10 @@ class Solution(object):
                 total += int(b[j])
                 j -= 1
 
-            result = str(total % 2) + result   # Add remainder
+            res = str(total % 2) + res  # Add remainder
             carry = total // 2                 # Update carry
 
-        return result
+        return res
 
 
         
