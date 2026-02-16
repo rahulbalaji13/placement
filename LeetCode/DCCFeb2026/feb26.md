@@ -15,3 +15,4 @@
 13. Longest Balenced Substring II
 14. Champagne Tower
 15. Add Binary
+16. Reverse Bits
