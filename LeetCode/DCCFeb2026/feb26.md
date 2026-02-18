@@ -17,3 +17,4 @@
 15. Add Binary
 16. Reverse Bits
 17. Binary Watch
+18. Binary Number With Alternating bits
