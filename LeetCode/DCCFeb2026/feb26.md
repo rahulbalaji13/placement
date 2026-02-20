@@ -19,3 +19,4 @@
 17. Binary Watch
 18. Binary Number With Alternating bits
 19. Count Binary Substring
+20. Special Binary String
