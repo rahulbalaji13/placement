@@ -20,3 +20,4 @@
 18. Binary Number With Alternating bits
 19. Count Binary Substring
 20. Special Binary String
+21. Primary Number of Set Bits In Binary Representation
