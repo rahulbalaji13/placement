@@ -22,3 +22,4 @@
 20. Special Binary String
 21. Primary Number of Set Bits In Binary Representation
 22. Binary Gap
+23. Check If a String Contains All Binary Codes of Size K
